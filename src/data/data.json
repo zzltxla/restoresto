@@ -1,0 +1,207 @@
+{
+  "products": [
+    {
+      "name": "Caesar Salad",
+      "ingredients": [
+        "lettuce",
+        "croutons",
+        "parmesan",
+        "chicken",
+        "Caesar dressing"
+      ],
+      "price": 8.5,
+      "type": "starter",
+      "id": "0857"
+    },
+    {
+      "name": "French Onion Soup",
+      "ingredients": [
+        "onions",
+        "broth",
+        "bread",
+        "grated cheese"
+      ],
+      "price": 7,
+      "type": "starter",
+      "id": "cbda"
+    },
+    {
+      "name": "Bruschetta",
+      "ingredients": [
+        "grilled bread",
+        "tomatoes",
+        "basil",
+        "olive oil"
+      ],
+      "price": 6.5,
+      "type": "starter",
+      "id": "1c34"
+    },
+    {
+      "name": "Beef Carpaccio",
+      "ingredients": [
+        "beef",
+        "parmesan",
+        "arugula",
+        "lemon"
+      ],
+      "price": 9.5,
+      "type": "starter",
+      "id": "76d6"
+    },
+    {
+      "name": "Margherita Pizza",
+      "ingredients": [
+        "pizza dough",
+        "tomato sauce",
+        "mozzarella",
+        "basil"
+      ],
+      "price": 12,
+      "type": "main",
+      "id": "bbbd"
+    },
+    {
+      "name": "Lasagna",
+      "ingredients": [
+        "pasta",
+        "bolognese sauce",
+        "béchamel",
+        "grated cheese"
+      ],
+      "price": 13.5,
+      "type": "main",
+      "id": "1966"
+    },
+    {
+      "name": "Ratatouille",
+      "ingredients": [
+        "zucchini",
+        "eggplant",
+        "bell peppers",
+        "tomatoes"
+      ],
+      "price": 11,
+      "type": "main",
+      "id": "ff76"
+    },
+    {
+      "name": "Steak and Fries",
+      "ingredients": [
+        "steak",
+        "potatoes",
+        "butter"
+      ],
+      "price": 15,
+      "type": "main",
+      "id": "3efb"
+    },
+    {
+      "name": "Tiramisu",
+      "ingredients": [
+        "mascarpone",
+        "coffee",
+        "ladyfingers",
+        "cocoa"
+      ],
+      "price": 6,
+      "type": "dessert",
+      "id": "090b"
+    },
+    {
+      "name": "Crème Brûlée",
+      "ingredients": [
+        "cream",
+        "vanilla",
+        "sugar"
+      ],
+      "price": 5.5,
+      "type": "dessert",
+      "id": "90ae"
+    },
+    {
+      "name": "Chocolate Mousse",
+      "ingredients": [
+        "chocolate",
+        "eggs",
+        "sugar"
+      ],
+      "price": 5,
+      "type": "dessert",
+      "id": "1972"
+    },
+    {
+      "name": "Profiteroles",
+      "ingredients": [
+        "choux pastry",
+        "ice cream",
+        "hot chocolate"
+      ],
+      "price": 7,
+      "type": "dessert",
+      "id": "0c97"
+    },
+    {
+      "name": "Fresh Orange Juice",
+      "ingredients": [
+        "freshly squeezed oranges"
+      ],
+      "price": 4.5,
+      "type": "beverage",
+      "id": "01f1"
+    },
+    {
+      "name": "Coffee",
+      "ingredients": [
+        "coffee beans"
+      ],
+      "price": 2.5,
+      "type": "beverage",
+      "id": "46af"
+    },
+    {
+      "name": "Homemade Iced Tea",
+      "ingredients": [
+        "tea",
+        "sugar",
+        "lemon"
+      ],
+      "price": 3.5,
+      "type": "beverage",
+      "id": "ad4a"
+    },
+    {
+      "name": "Fresh Lemonade",
+      "ingredients": [
+        "lemons",
+        "water",
+        "sugar"
+      ],
+      "price": 4,
+      "type": "beverage",
+      "id": "784c"
+    }
+  ],
+  "users": [
+    {
+      "username": "jdupont",
+      "password": "azerty123",
+      "id": "9652"
+    },
+    {
+      "username": "mleclerc",
+      "password": "passw0rd",
+      "id": "74e2"
+    },
+    {
+      "username": "cboucher",
+      "password": "secure2023",
+      "id": "09dd"
+    },
+    {
+      "id": "513e",
+      "username": "zzltxla",
+      "password": "Abc123@"
+    }
+  ]
+}
